@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/smkakitani/odin-bst/issues"
   },
-  "homepage": "https://github.com/smkakitani/odin-bst#readme"
+  "homepage": "https://github.com/smkakitani/odin-bst#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
